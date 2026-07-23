@@ -1,7 +1,8 @@
 # Smart MCQ Solver Challenge
 
-**Deep Learning Project | Jul 2026 | Student-id: 23f1002033 | Name: Ishank Gupta**
-
+**Deep Learning Project | Term-2 2026 | Student-id: 23f1002033 | Name: Ishank Gupta**
+**Live Demo:**  
+https://huggingface.co/spaces/IshankGupta/smart-mcq-solver
 ---
 
 ## Overview
